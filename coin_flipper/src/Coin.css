@@ -1,0 +1,20 @@
+.Coin img {
+    width: 300px;
+    height: 300px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+.CoinContainer button {
+    background-color: darkblue;
+    color: white;
+    font-size: 100%;
+    border-radius: 15px;
+    margin-top: 1em;
+    padding: .5em;
+}
+p {
+    font-size: 30px;
+    font-weight: bolder;
+}
